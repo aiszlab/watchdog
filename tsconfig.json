@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "outDir": "bin",
+    "rootDir": "src",
+    "moduleResolution": "NodeNext",
+    "module": "NodeNext"
+  }
+}
